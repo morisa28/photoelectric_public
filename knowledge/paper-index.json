@@ -1,0 +1,661 @@
+{
+  "generated_at": "2026-06-06T09:58:13.351Z",
+  "total": 32,
+  "warnings": [],
+  "papers": [
+    {
+      "paper_id": "P001",
+      "sequence": 1,
+      "title": "光电效应测普朗克常数的数据处理及误差分析",
+      "authors": [
+        "王云志",
+        "赵敏"
+      ],
+      "source": "大学物理实验",
+      "date": "2011-04-26",
+      "year": "2011",
+      "database": "期刊",
+      "citations": 24,
+      "downloads": 3333,
+      "file_path": "papers/001_光电效应测普朗克常数的数据处理及误差分析_王云志.pdf",
+      "format": "pdf",
+      "bytes": 306032,
+      "retrieval_query": "光电效应 遏止电压 频率",
+      "status": "downloaded"
+    },
+    {
+      "paper_id": "P002",
+      "sequence": 2,
+      "title": "光电效应测普朗克常数的三种方法",
+      "authors": [
+        "吴丽君",
+        "李倩"
+      ],
+      "source": "大学物理实验",
+      "date": "2007-12-25",
+      "year": "2007",
+      "database": "期刊",
+      "citations": 32,
+      "downloads": 3118,
+      "file_path": "papers/002_光电效应测普朗克常数的三种方法_吴丽君.pdf",
+      "format": "pdf",
+      "bytes": 159962,
+      "retrieval_query": "光电效应 伏安特性",
+      "status": "downloaded"
+    },
+    {
+      "paper_id": "P003",
+      "sequence": 3,
+      "title": "在光电效应实验中用曲率法测普朗克常量",
+      "authors": [
+        "章佳伟",
+        "殷士龙"
+      ],
+      "source": "物理实验",
+      "date": "2003-11-25",
+      "year": "2003",
+      "database": "期刊",
+      "citations": 34,
+      "downloads": 1239,
+      "file_path": "papers/003_在光电效应实验中用曲率法测普朗克常量_章佳伟.pdf",
+      "format": "pdf",
+      "bytes": 219886,
+      "retrieval_query": "光电效应 普朗克常量 伏安特性",
+      "status": "downloaded"
+    },
+    {
+      "paper_id": "P004",
+      "sequence": 4,
+      "title": "爱因斯坦光电方程与光电效应实验外推法",
+      "authors": [
+        "杨际青"
+      ],
+      "source": "大学物理",
+      "date": "2003-03-20",
+      "year": "2003",
+      "database": "期刊",
+      "citations": 27,
+      "downloads": 1114,
+      "file_path": "papers/004_爱因斯坦光电方程与光电效应实验外推法_杨际青.pdf",
+      "format": "pdf",
+      "bytes": 262745,
+      "retrieval_query": "光电效应 普朗克常量 截止电压",
+      "status": "downloaded"
+    },
+    {
+      "paper_id": "P005",
+      "sequence": 5,
+      "title": "改进的光电效应测量普朗克常量外推法实验",
+      "authors": [
+        "杨际青"
+      ],
+      "source": "大学物理",
+      "date": "2003-12-20",
+      "year": "2003",
+      "database": "期刊",
+      "citations": 18,
+      "downloads": 1158,
+      "file_path": "papers/005_改进的光电效应测量普朗克常量外推法实验_杨际青.pdf",
+      "format": "pdf",
+      "bytes": 299516,
+      "retrieval_query": "光电效应 伏安特性",
+      "status": "downloaded"
+    },
+    {
+      "paper_id": "P006",
+      "sequence": 6,
+      "title": "光电效应测普朗克常数新数据处理方法",
+      "authors": [
+        "白光富",
+        "袁升",
+        "马泽斌",
+        "胡仁林"
+      ],
+      "source": "物理与工程",
+      "date": "2013-06-15",
+      "year": "2013",
+      "database": "期刊",
+      "citations": 10,
+      "downloads": 1005,
+      "file_path": "papers/006_光电效应测普朗克常数新数据处理方法_白光富.pdf",
+      "format": "pdf",
+      "bytes": 646290,
+      "retrieval_query": "光电效应 波长 频率 截止电压",
+      "status": "downloaded"
+    },
+    {
+      "paper_id": "P007",
+      "sequence": 7,
+      "title": "光电效应测量普朗克常数的方法及误差分析",
+      "authors": [
+        "宋晓东"
+      ],
+      "source": "吉林建筑工程学院学报",
+      "date": "2009-12-15",
+      "year": "2009",
+      "database": "期刊",
+      "citations": 9,
+      "downloads": 1623,
+      "file_path": "papers/007_光电效应测量普朗克常数的方法及误差分析_宋晓东.pdf",
+      "format": "pdf",
+      "bytes": 1119669,
+      "retrieval_query": "光电效应 伏安特性",
+      "status": "downloaded"
+    },
+    {
+      "paper_id": "P008",
+      "sequence": 8,
+      "title": "光电效应实验分析",
+      "authors": [
+        "霍连利",
+        "蒙上阳",
+        "杨秀清"
+      ],
+      "source": "物理实验",
+      "date": "2001-02-25",
+      "year": "2001",
+      "database": "期刊",
+      "citations": 19,
+      "downloads": 1317,
+      "file_path": "papers/008_光电效应实验分析_霍连利.pdf",
+      "format": "pdf",
+      "bytes": 175638,
+      "retrieval_query": "光电效应 遏止电压 频率",
+      "status": "downloaded"
+    },
+    {
+      "paper_id": "P009",
+      "sequence": 9,
+      "title": "光电效应实验教学中饱和光电流与入射光强成正比的实验探讨",
+      "authors": [
+        "杨骏骏",
+        "何光宏",
+        "李巧梅",
+        "潘量",
+        "徐玮婧"
+      ],
+      "source": "物理实验",
+      "date": "2019-02-20",
+      "year": "2019",
+      "database": "期刊",
+      "citations": 7,
+      "downloads": 1160,
+      "file_path": "papers/009_光电效应实验教学中饱和光电流与入射光强成正比的实验探讨_杨骏骏.pdf",
+      "format": "pdf",
+      "bytes": 278447,
+      "retrieval_query": "光电效应 伏安特性",
+      "status": "downloaded"
+    },
+    {
+      "paper_id": "P010",
+      "sequence": 10,
+      "title": "在光电效应测定普朗克常数实验中测量方法的讨论",
+      "authors": [
+        "周永军",
+        "朴林鹤",
+        "吕佳"
+      ],
+      "source": "沈阳航空航天大学学报",
+      "date": "2011-04-15",
+      "year": "2011",
+      "database": "期刊",
+      "citations": 12,
+      "downloads": 1440,
+      "file_path": "papers/010_在光电效应测定普朗克常数实验中测量方法的讨论_周永军.pdf",
+      "format": "pdf",
+      "bytes": 257408,
+      "retrieval_query": "光电效应 伏安特性",
+      "status": "downloaded"
+    },
+    {
+      "paper_id": "P011",
+      "sequence": 11,
+      "title": "光电效应测量普朗克常量实验的研究",
+      "authors": [
+        "陈若辉",
+        "郭赫"
+      ],
+      "source": "北华大学学报(自然科学版)",
+      "date": "2007-08-10",
+      "year": "2007",
+      "database": "期刊",
+      "citations": 15,
+      "downloads": 1247,
+      "file_path": "papers/011_光电效应测量普朗克常量实验的研究_陈若辉.pdf",
+      "format": "pdf",
+      "bytes": 302981,
+      "retrieval_query": "光电效应 普朗克常量 截止电压",
+      "status": "downloaded"
+    },
+    {
+      "paper_id": "P012",
+      "sequence": 12,
+      "title": "外光电法测量普朗克常量的误差分析与修正",
+      "authors": [
+        "张开骁",
+        "孔维钰",
+        "朱卫华",
+        "宋建平",
+        "刘明熠"
+      ],
+      "source": "物理实验",
+      "date": "2013-01-20",
+      "year": "2013",
+      "database": "期刊",
+      "citations": 9,
+      "downloads": 460,
+      "file_path": "papers/012_外光电法测量普朗克常量的误差分析与修正_张开骁.pdf",
+      "format": "pdf",
+      "bytes": 317048,
+      "retrieval_query": "光电效应 波长 频率 截止电压",
+      "status": "downloaded"
+    },
+    {
+      "paper_id": "P013",
+      "sequence": 13,
+      "title": "趋近平均法测量普朗克常量",
+      "authors": [
+        "武颖丽",
+        "李平舟"
+      ],
+      "source": "物理实验",
+      "date": "2007-04-20",
+      "year": "2007",
+      "database": "期刊",
+      "citations": 15,
+      "downloads": 302,
+      "file_path": "papers/013_趋近平均法测量普朗克常量_武颖丽.pdf",
+      "format": "pdf",
+      "bytes": 170234,
+      "retrieval_query": "光电效应 伏安特性",
+      "status": "downloaded"
+    },
+    {
+      "paper_id": "P014",
+      "sequence": 14,
+      "title": "光电效应法测量普朗克常数的数据处理及误差分析",
+      "authors": [
+        "闻春敖",
+        "郑晓东"
+      ],
+      "source": "中国光学学会2006年学术大会论文摘要集",
+      "date": "2006-09-01",
+      "year": "2006",
+      "database": "中国会议",
+      "citations": 0,
+      "downloads": 1069,
+      "file_path": "papers/014_光电效应法测量普朗克常数的数据处理及误差分析_闻春敖.pdf",
+      "format": "pdf",
+      "bytes": 430053,
+      "retrieval_query": "光电效应 遏止电压 频率",
+      "status": "downloaded"
+    },
+    {
+      "paper_id": "P015",
+      "sequence": 15,
+      "title": "运用Matlab辅助测量普朗克常量",
+      "authors": [
+        "李雄",
+        "朱琳"
+      ],
+      "source": "物理实验",
+      "date": "2008-12-20",
+      "year": "2008",
+      "database": "期刊",
+      "citations": 12,
+      "downloads": 434,
+      "file_path": "papers/015_运用Matlab辅助测量普朗克常量_李雄.pdf",
+      "format": "pdf",
+      "bytes": 271222,
+      "retrieval_query": "光电效应 遏止电压 频率",
+      "status": "downloaded"
+    },
+    {
+      "paper_id": "P016",
+      "sequence": 16,
+      "title": "光电效应实验仪器及实验方法的改进",
+      "authors": [
+        "黄建群",
+        "胡再国"
+      ],
+      "source": "物理实验",
+      "date": "2002-06-25",
+      "year": "2002",
+      "database": "期刊",
+      "citations": 7,
+      "downloads": 946,
+      "file_path": "papers/016_光电效应实验仪器及实验方法的改进_黄建群.pdf",
+      "format": "pdf",
+      "bytes": 169503,
+      "retrieval_query": "光电效应 普朗克常量 伏安特性",
+      "status": "downloaded"
+    },
+    {
+      "paper_id": "P017",
+      "sequence": 17,
+      "title": "基于MATLAB的普朗克常数测定的数据处理",
+      "authors": [
+        "孙庆龙"
+      ],
+      "source": "科技信息",
+      "date": "2010-01-05",
+      "year": "2010",
+      "database": "期刊",
+      "citations": 3,
+      "downloads": 364,
+      "file_path": "papers/017_基于MATLAB的普朗克常数测定的数据处理_孙庆龙.pdf",
+      "format": "pdf",
+      "bytes": 145702,
+      "retrieval_query": "光电效应 波长 频率 截止电压",
+      "status": "downloaded"
+    },
+    {
+      "paper_id": "P018",
+      "sequence": 18,
+      "title": "光电效应实验中截止电压随光强变化原因的探索",
+      "authors": [
+        "杨振乾",
+        "王鑫园",
+        "苏为宁"
+      ],
+      "source": "物理实验",
+      "date": "2014-06-20",
+      "year": "2014",
+      "database": "期刊",
+      "citations": 8,
+      "downloads": 701,
+      "file_path": "papers/018_光电效应实验中截止电压随光强变化原因的探索_杨振乾.pdf",
+      "format": "pdf",
+      "bytes": 449894,
+      "retrieval_query": "光电效应 光强 光电流",
+      "status": "downloaded"
+    },
+    {
+      "paper_id": "P019",
+      "sequence": 19,
+      "title": "基于自制暗箱测量光电效应中光强与光电流的关系",
+      "authors": [
+        "杨莹",
+        "张文攀",
+        "张计才"
+      ],
+      "source": "大学物理",
+      "date": "2022-02-15",
+      "year": "2022",
+      "database": "期刊",
+      "citations": 4,
+      "downloads": 656,
+      "file_path": "papers/019_基于自制暗箱测量光电效应中光强与光电流的关系_杨莹.pdf",
+      "format": "pdf",
+      "bytes": 770748,
+      "retrieval_query": "光电效应 伏安特性",
+      "status": "downloaded"
+    },
+    {
+      "paper_id": "P020",
+      "sequence": 20,
+      "title": "Origin软件在普朗克常量测定实验中的应用",
+      "authors": [
+        "杨达晓",
+        "唐海燕",
+        "杨耀辉"
+      ],
+      "source": "大学物理实验",
+      "date": "2010-10-26",
+      "year": "2010",
+      "database": "期刊",
+      "citations": 9,
+      "downloads": 460,
+      "file_path": "papers/020_Origin软件在普朗克常量测定实验中的应用_杨达晓.pdf",
+      "format": "pdf",
+      "bytes": 172699,
+      "retrieval_query": "光电效应 伏安特性",
+      "status": "downloaded"
+    },
+    {
+      "paper_id": "P021",
+      "sequence": 21,
+      "title": "光电效应实验中阳极光电流的测量",
+      "authors": [
+        "陈若辉",
+        "王海燕"
+      ],
+      "source": "物理实验",
+      "date": "2012-01-20",
+      "year": "2012",
+      "database": "期刊",
+      "citations": 5,
+      "downloads": 705,
+      "file_path": "papers/021_光电效应实验中阳极光电流的测量_陈若辉.pdf",
+      "format": "pdf",
+      "bytes": 123403,
+      "retrieval_query": "光电效应 普朗克常量 截止电压",
+      "status": "downloaded"
+    },
+    {
+      "paper_id": "P022",
+      "sequence": 22,
+      "title": "光电效应实验中光阑大小对实验结果影响的探讨",
+      "authors": [
+        "吕佩伟",
+        "施洋",
+        "马宋设",
+        "马靖"
+      ],
+      "source": "大学物理实验",
+      "date": "2014-06-26",
+      "year": "2014",
+      "database": "期刊",
+      "citations": 4,
+      "downloads": 482,
+      "file_path": "papers/022_光电效应实验中光阑大小对实验结果影响的探讨_吕佩伟.pdf",
+      "format": "pdf",
+      "bytes": 96413,
+      "retrieval_query": "光电效应 遏止电压 频率",
+      "status": "downloaded"
+    },
+    {
+      "paper_id": "P023",
+      "sequence": 23,
+      "title": "光阑大小和光电管接收距离对实验结果影响分析",
+      "authors": [
+        "张风昀",
+        "王雪鹏",
+        "隋宏光",
+        "郭雅慧"
+      ],
+      "source": "实验科学与技术",
+      "date": "2017-05-16 14:32",
+      "year": "2017",
+      "database": "期刊",
+      "citations": 4,
+      "downloads": 480,
+      "file_path": "papers/023_光阑大小和光电管接收距离对实验结果影响分析_张风昀.pdf",
+      "format": "pdf",
+      "bytes": 128394,
+      "retrieval_query": "光电效应 截止电压 波长",
+      "status": "downloaded"
+    },
+    {
+      "paper_id": "P024",
+      "sequence": 24,
+      "title": "光电效应实验理论及本底电流分析",
+      "authors": [
+        "蒙上阳",
+        "霍连利",
+        "黄加临"
+      ],
+      "source": "广西师范大学学报(自然科学版)",
+      "date": "2000-12-30",
+      "year": "2000",
+      "database": "期刊",
+      "citations": 2,
+      "downloads": 633,
+      "file_path": "papers/024_光电效应实验理论及本底电流分析_蒙上阳.pdf",
+      "format": "pdf",
+      "bytes": 50337,
+      "retrieval_query": "光电效应 遏止电压 频率",
+      "status": "downloaded"
+    },
+    {
+      "paper_id": "P025",
+      "sequence": 25,
+      "title": "光电效应伏安特性实验改进研究",
+      "authors": [
+        "王林香"
+      ],
+      "source": "大学物理实验",
+      "date": "2016-02-26",
+      "year": "2016",
+      "database": "期刊",
+      "citations": 18,
+      "downloads": 1699,
+      "file_path": "papers/025_光电效应伏安特性实验改进研究_王林香.pdf",
+      "format": "pdf",
+      "bytes": 181908,
+      "retrieval_query": "光电效应 饱和电流 光强",
+      "status": "downloaded"
+    },
+    {
+      "paper_id": "P026",
+      "sequence": 26,
+      "title": "光阑对普朗克常量测定影响的分析",
+      "authors": [
+        "封丽"
+      ],
+      "source": "渤海大学学报(自然科学版)",
+      "date": "2012-06-15",
+      "year": "2012",
+      "database": "期刊",
+      "citations": 3,
+      "downloads": 231,
+      "file_path": "papers/026_光阑对普朗克常量测定影响的分析_封丽.pdf",
+      "format": "pdf",
+      "bytes": 121724,
+      "retrieval_query": "光电效应 截止电压 波长",
+      "status": "downloaded"
+    },
+    {
+      "paper_id": "P027",
+      "sequence": 27,
+      "title": "光电效应实验的影响因素及误差分析",
+      "authors": [
+        "王林香"
+      ],
+      "source": "物理与工程",
+      "date": "2016-10-15",
+      "year": "2016",
+      "database": "期刊",
+      "citations": 13,
+      "downloads": 1738,
+      "file_path": "papers/027_光电效应实验的影响因素及误差分析_王林香.pdf",
+      "format": "pdf",
+      "bytes": 348788,
+      "retrieval_query": "光电效应 遏止电压 频率",
+      "status": "downloaded"
+    },
+    {
+      "paper_id": "P028",
+      "sequence": 28,
+      "title": "基于物理核心素养的“光电效应”实验教学探索",
+      "authors": [
+        "童有彩",
+        "张安军"
+      ],
+      "source": "物理教师",
+      "date": "2023-09-05",
+      "year": "2023",
+      "database": "期刊",
+      "citations": 10,
+      "downloads": 1120,
+      "file_path": "papers/028_基于物理核心素养的“光电效应”实验教学探索_童有彩.pdf",
+      "format": "pdf",
+      "bytes": 308932,
+      "retrieval_query": "光电管 截止电压 频率",
+      "status": "downloaded"
+    },
+    {
+      "paper_id": "P029",
+      "sequence": 29,
+      "title": "基于光电效应的普朗克常数的测定与分析",
+      "authors": [
+        "郎集会",
+        "范雯琦"
+      ],
+      "source": "吉林师范大学学报(自然科学版)",
+      "date": "2015-02-10",
+      "year": "2015",
+      "database": "期刊",
+      "citations": 6,
+      "downloads": 1394,
+      "file_path": "papers/029_基于光电效应的普朗克常数的测定与分析_郎集会.pdf",
+      "format": "pdf",
+      "bytes": 304925,
+      "retrieval_query": "光电效应 遏止电压 频率",
+      "status": "downloaded"
+    },
+    {
+      "paper_id": "P030",
+      "sequence": 30,
+      "title": "光电管中光电流与电压之间的关系问题",
+      "authors": [
+        "单义成",
+        "徐红政"
+      ],
+      "source": "理科考试研究",
+      "date": "2014-11-01",
+      "year": "2014",
+      "database": "特色期刊",
+      "citations": 0,
+      "downloads": 132,
+      "file_path": "papers/030_光电管中光电流与电压之间的关系问题_单义成.caj",
+      "format": "caj",
+      "bytes": 53212,
+      "retrieval_query": "光电管中光电流与电压之间的关系问题",
+      "status": "downloaded"
+    },
+    {
+      "paper_id": "P031",
+      "sequence": 31,
+      "title": "光电效应的伏安特性曲线",
+      "authors": [
+        "杨祺",
+        "金惠吉",
+        "陈海涛",
+        "杨厚发",
+        "施梦丽"
+      ],
+      "source": "物理实验",
+      "date": "2023-11-20",
+      "year": "2023",
+      "database": "期刊",
+      "citations": 4,
+      "downloads": 1122,
+      "file_path": "papers/031_光电效应的伏安特性曲线_杨祺.pdf",
+      "format": "pdf",
+      "bytes": 466804,
+      "retrieval_query": "光电管 伏安特性",
+      "status": "downloaded"
+    },
+    {
+      "paper_id": "P032",
+      "sequence": 32,
+      "title": "光电效应伏安特性曲线的几个细节问题",
+      "authors": [
+        "王子文",
+        "管曙光"
+      ],
+      "source": "物理教学",
+      "date": "2022-02-18",
+      "year": "2022",
+      "database": "期刊",
+      "citations": 2,
+      "downloads": 1517,
+      "file_path": "papers/032_光电效应伏安特性曲线的几个细节问题_王子文.pdf",
+      "format": "pdf",
+      "bytes": 931057,
+      "retrieval_query": "光电管 伏安特性",
+      "status": "downloaded"
+    }
+  ]
+}
